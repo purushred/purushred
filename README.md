@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm Puru
 
-<!--
-**purushred/purushred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Senior Cloud/DevOps Architect with a focus on cloud architecture and automation.
+Over two decades of experience in the IT industry, I have worked in various technologies spanning across Banking, Networking, and Data Center platforms. I have extensive experience in developing highly scalable enterprise applications using Java, GoLang, Spring Boot, Angular, and Typescript. I also specialize in the automation of CI/CD with GitHub Actions and ArgoCD integration, as well as the automation of cloud resource management with Terraform in AWS, Azure, and GCP platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Cloud/Container Technologies
+- Terraform
+- Docker
+- Kubernetes
+
+### Cloud Platforms
+- GCP
+- AWS
+- Azure
+
+### CI/CD
+- GitHub Actions
+- Jenkins
+- ArgoCD
+
+### Back-End Technologies
+- Java
+- Go
+- Python
+- Microservices
+- Oracle
+- Postgres
+- MySQL
+
+### Front-End Technologies
+- SwiftUI
+- React
+- Angular
+
+### Certifications
+- Google Professional Cloud Security Engineer - PCSE
+- Certified Kubernetes Security Specialist - CKS
+- Certified Kubernetes Application Developer - CKAD
+- Certified Kubernetes Administrator - CKA
