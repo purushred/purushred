@@ -1,42 +1,53 @@
-## Hi there 👋 I'm Puru
+# Hi there 👋 I'm Puru
 
+Welcome to my GitHub profile! 🚀  
+I am a **Senior Cloud/DevOps Architect** with a passion for **cloud architecture** and **automation**. With over two decades of experience in the IT industry, I have worked across multiple domains, including **Banking**, **Networking**, and **Data Centers**.
 
-Senior Cloud/DevOps Architect with a focus on cloud architecture and automation.
-Over two decades of experience in the IT industry, I have worked in various technologies spanning across Banking, Networking, and Data Center platforms. I have extensive experience in developing highly scalable enterprise applications using Java, GoLang, Spring Boot, Angular, and Typescript. I also specialize in the automation of CI/CD with GitHub Actions and ArgoCD integration, as well as the automation of cloud resource management with Terraform in AWS, Azure, and GCP platforms.
+I specialize in designing **highly scalable enterprise applications** and automating infrastructure processes to enhance operational efficiency. My expertise spans **Java**, **GoLang**, **Spring Boot**, alongside advanced **CI/CD** pipelines and **cloud resource automation** using tools like Terraform.
 
-## Skills
+---
 
-### Cloud/Container Technologies
-- Terraform
-- Docker
-- Kubernetes
+## 🌟 **Skills**
 
-### Cloud Platforms
-- GCP
-- AWS
-- Azure
+### 🌐 **Cloud & Container Technologies**
+- **Infrastructure as Code**: Terraform  
+- **Containerization**: Docker, Kubernetes  
 
-### CI/CD
-- GitHub Actions
-- Jenkins
-- ArgoCD
+### ☁️ **Cloud Platforms**
+- **Google Cloud Platform (GCP)**  
+- **Amazon Web Services (AWS)**  
+- **Microsoft Azure**
 
-### Back-End Technologies
-- Java
-- Go
-- Python
-- Microservices
-- Oracle
-- Postgres
-- MySQL
+### 🔄 **CI/CD Pipelines**
+- GitHub Actions  
+- Jenkins  
+- ArgoCD  
 
-### Front-End Technologies
-- SwiftUI
-- React
-- Angular
+### 🖥️ **Back-End Technologies**
+- **Languages**: Java, Go, Python  
+- **Architecture**: Microservices  
 
-### Certifications
-- Google Professional Cloud Security Engineer - PCSE
-- Certified Kubernetes Security Specialist - CKS
-- Certified Kubernetes Application Developer - CKAD
-- Certified Kubernetes Administrator - CKA
+### 🎨 **Front-End Technologies**
+- SwiftUI  
+- React  
+- Angular  
+
+---
+
+## 📜 **Certifications**
+
+- 🏆 **Google Professional Cloud Security Engineer (PCSE)**  
+- 🏆 **Certified Kubernetes Security Specialist (CKS)**  
+- 🏆 **Certified Kubernetes Application Developer (CKAD)**  
+- 🏆 **Certified Kubernetes Administrator (CKA)**  
+
+---
+
+### 🌟 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/puru-yanamala)  
+- [X](https://x.com/PuruYanamala)
+- [Personal Blog](https://purushotham.me)  
+
+Thank you for stopping by! 🌟 Feel free to explore my repositories and connect with me for collaborations. Let's build something amazing together! 🚀
+
