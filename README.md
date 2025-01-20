@@ -1,36 +1,29 @@
 ## Hi there 👋 I'm Puru
 
 Welcome to my GitHub profile! 🚀  
-I am a **Senior Cloud/DevOps Architect** with a passion for **cloud architecture** and **automation**. With over two decades of experience in the IT industry, I have worked across multiple domains, including **Banking**, **Networking**, and **Data Centers**.
+I’m a **Senior Cloud/DevOps Architect** with over 20 years of experience specializing in **cloud architecture**, **DevOps automation**, and **cloud security**. I have worked across diverse domains, including **Banking**, **Networking**, and **Data Centers**, delivering robust, scalable, and secure solutions.  
 
-I specialize in designing **highly scalable enterprise applications** and automating infrastructure processes to enhance operational efficiency. My expertise spans **Java**, **GoLang**, **Spring Boot**, alongside advanced **CI/CD** pipelines and **cloud resource automation** using tools like Terraform.
+My expertise includes **cloud platform management** (AWS, Azure, GCP), **CI/CD pipelines** (GitHub Actions, ArgoCD, Jenkins), and **infrastructure automation** with tools like **Terraform**. I am also highly focused on implementing **cloud security best practices** to ensure compliance and reliability.
 
-### 🌟 **Skills**
+### 💡**Skills**
 
 #### ☁️ **Cloud & Container Technologies**
-- **Google Cloud Platform (GCP)**  
-- **Amazon Web Services (AWS)**  
-- **Microsoft Azure**
+- **Cloud Platforms**: Google Cloud, AWS, Azure
 - **Infrastructure as Code**: Terraform  
-- **Containerization**: Docker, Kubernetes  
+- **Containerization**: Docker, Kubernetes
+- **CI/CD Pipeline**: ArgoCD, GitHub Actions, Jenkins
 
-#### 🔄 **CI/CD Pipelines**
-- GitHub Actions    
-- ArgoCD
-- Jenkins 
-
-#### 🖥️ **Programming**
+#### 👨🏻‍💻 **Programming**
 - **Languages**: Java, Go, Python, Swift
 - **Architecture**: Microservices
 
 ### 🏆 **Certifications**
-
 - Google Professional Cloud Security Engineer (PCSE) 
 - Certified Kubernetes Security Specialist (CKS)
 - Certified Kubernetes Application Developer (CKAD)
 - Certified Kubernetes Administrator (CKA)
 
-### 🌟 **Connect with Me**
+### 📮 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/puru-yanamala)  
 - [X](https://x.com/PuruYanamala)
