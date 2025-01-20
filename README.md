@@ -5,45 +5,38 @@ I am a **Senior Cloud/DevOps Architect** with a passion for **cloud architecture
 
 I specialize in designing **highly scalable enterprise applications** and automating infrastructure processes to enhance operational efficiency. My expertise spans **Java**, **GoLang**, **Spring Boot**, alongside advanced **CI/CD** pipelines and **cloud resource automation** using tools like Terraform.
 
----
 
 ## 🌟 **Skills**
 
-### 🌐 **Cloud & Container Technologies**
-- **Infrastructure as Code**: Terraform  
-- **Containerization**: Docker, Kubernetes  
-
-### ☁️ **Cloud Platforms**
+#### ☁️ **Cloud & Container Technologies**
 - **Google Cloud Platform (GCP)**  
 - **Amazon Web Services (AWS)**  
 - **Microsoft Azure**
+- **Infrastructure as Code**: Terraform  
+- **Containerization**: Docker, Kubernetes  
 
-### 🔄 **CI/CD Pipelines**
+#### 🔄 **CI/CD Pipelines**
 - GitHub Actions  
 - Jenkins  
 - ArgoCD  
 
-### 🖥️ **Back-End Technologies**
+#### 🖥️ **Back-End Technologies**
 - **Languages**: Java, Go, Python  
 - **Architecture**: Microservices  
 
-### 🎨 **Front-End Technologies**
+#### 🎨 **Front-End Technologies**
 - SwiftUI  
 - React  
 - Angular  
 
----
-
 ## 📜 **Certifications**
 
-- 🏆 **Google Professional Cloud Security Engineer (PCSE)**  
-- 🏆 **Certified Kubernetes Security Specialist (CKS)**  
-- 🏆 **Certified Kubernetes Application Developer (CKAD)**  
-- 🏆 **Certified Kubernetes Administrator (CKA)**  
+- 🏆 Google Professional Cloud Security Engineer (PCSE) 
+- 🏆 Certified Kubernetes Security Specialist (CKS)
+- 🏆 Certified Kubernetes Application Developer (CKAD)
+- 🏆 Certified Kubernetes Administrator (CKA)
 
----
-
-### 🌟 **Connect with Me**
+#### 🌟 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/puru-yanamala)  
 - [X](https://x.com/PuruYanamala)
